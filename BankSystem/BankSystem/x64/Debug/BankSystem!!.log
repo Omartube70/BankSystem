@@ -1,0 +1,25 @@
+﻿  BankSystem!!.cpp
+C:\Users\omart\OneDrive\Desktop\My Project\BankSystem!!\BankSystem!!\clsString.h(69,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'BankSystem!!.cpp')
+  
+C:\Users\omart\OneDrive\Desktop\My Project\BankSystem!!\BankSystem!!\clsUser.h(155,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegister' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'BankSystem!!.cpp')
+      C:\Users\omart\OneDrive\Desktop\My Project\BankSystem!!\BankSystem!!\clsUser.h(15,12):
+      see declaration of 'clsUser::stLoginRegister'
+  
+C:\Users\omart\OneDrive\Desktop\My Project\BankSystem!!\BankSystem!!\clsBankClient.h(144,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stRigsterTransfer' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'BankSystem!!.cpp')
+      C:\Users\omart\OneDrive\Desktop\My Project\BankSystem!!\BankSystem!!\clsBankClient.h(120,9):
+      see declaration of 'clsBankClient::stRigsterTransfer'
+  
+C:\Users\omart\OneDrive\Desktop\My Project\BankSystem!!\BankSystem!!\clsCurrency.h(28,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystem!!.cpp')
+  
+C:\Users\omart\OneDrive\Desktop\My Project\BankSystem!!\BankSystem!!\clsUpdateCurrencyScreen.h(29,47): warning C4244: 'return': conversion from 'T' to 'float', possible loss of data
+C:\Users\omart\OneDrive\Desktop\My Project\BankSystem!!\BankSystem!!\clsUpdateCurrencyScreen.h(29,47): warning C4244:         with
+C:\Users\omart\OneDrive\Desktop\My Project\BankSystem!!\BankSystem!!\clsUpdateCurrencyScreen.h(29,47): warning C4244:         [
+C:\Users\omart\OneDrive\Desktop\My Project\BankSystem!!\BankSystem!!\clsUpdateCurrencyScreen.h(29,47): warning C4244:             T=double
+C:\Users\omart\OneDrive\Desktop\My Project\BankSystem!!\BankSystem!!\clsUpdateCurrencyScreen.h(29,47): warning C4244:         ]
+  (compiling source file 'BankSystem!!.cpp')
+  
+  BankSystem!!.vcxproj -> C:\Users\omart\OneDrive\Desktop\My Project\BankSystem!!\x64\Debug\BankSystem!!.exe
